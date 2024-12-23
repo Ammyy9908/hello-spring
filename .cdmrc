@@ -9,5 +9,5 @@ terminals:
         'source ~/.bashrc'
     ]
 # other config
-tabs: ['src/main/java/com/example/demo/HelloApplication.java']
+tabs: ['src/main/java/com/example/home/HelloApplication.java']
 run-button: mvn spring-boot:run
