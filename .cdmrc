@@ -1,0 +1,8 @@
+# terminals
+terminals:
+    [
+        'npm install --force'
+    ]
+# other config
+tabs: ['src/main/java/com/example/demo/HelloApplication.java']
+run-button: mvn spring-boot:run
