@@ -1,7 +1,10 @@
 # terminals
 terminals:
     [
-        
+        'sudo apt install maven'
+        'sudo apt install openjdk-17-jdk'
+        'npm install -g cdm'
+        'cdm-extension install'
     ]
 # other config
 tabs: ['src/main/java/com/example/demo/HelloApplication.java']
