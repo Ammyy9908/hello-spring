@@ -1,12 +1,7 @@
 # terminals
 terminals:
     [
-        'wget https://downloads.apache.org/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.tar.gz',
-        'tar -xvzf apache-maven-3.9.5-bin.tar.gz',
-        'mv apache-maven-3.9.5 /opt/maven',
-        'export PATH=~/maven/bin:$PATH',
-        'echo 'export PATH=~/maven/bin:$PATH' >> ~/.bashrc',
-        'source ~/.bashrc'
+        'echo "Hello World"'
     ]
 # other config
 tabs: ['src/main/java/com/example/home/HelloApplication.java']
