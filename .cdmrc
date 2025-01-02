@@ -4,5 +4,5 @@ terminals:
         'echo "Hello World"'
     ]
 # other config
-tabs: ['src/main/java/com/example/home/HelloApplication.java']
+tabs: ['src/main/java/com/example/demo/SalessavvyApplication.java']
 run-button: mvn spring-boot:run
