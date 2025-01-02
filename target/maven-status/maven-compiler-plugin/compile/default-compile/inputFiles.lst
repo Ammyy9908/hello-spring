@@ -1,0 +1,11 @@
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/SalessavvyApplication.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/controller/AuthController.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/controller/UserController.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/dto/LoginRequest.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/entity/JWTToken.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/entity/Role.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/entity/User.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/repository/JWTTokenRepository.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/repository/UserRepository.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/service/AuthService.java
+/Users/user/Desktop/SalesSavvyBackend/src/main/java/com/example/demo/service/UserService.java
